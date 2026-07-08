@@ -82,14 +82,14 @@ Akun untuk Pengujian (Credentials)
 Gunakan akun di bawah ini untuk menguji perbedaan hak akses (Authorization):
 
 A. Akun Admin (Full Akses)
-Email: admin@gym.com
+Email: admin@example.com
 
 Password: password123
 
 Fitur khusus: Dapat melakukan CRUD Member, menekan tombol Run Billing Engine, mencatat Pembayaran Manual, dan melakukan Suspended Massive.
 
 B. Akun Staff Biasa (Akses Terbatas)
-Email: staff@gym.com
+Email: staff@example.com
 
 Password: password123
 
